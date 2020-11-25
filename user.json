@@ -1,0 +1,13 @@
+
+{
+	"id": 33,
+	"name": "Imran Kabir",
+	"available": true,
+	"phone": null,
+	"tags": ["json", "learn json", "data sharing format"],
+	"address": {
+		"city": "Lahore",
+		"zipcode": "54100",
+		"country": "Pakistan"
+	}
+}
